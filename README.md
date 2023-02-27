@@ -4,6 +4,8 @@ Various projects from internship at the University of Florida Athletic Associati
 # Current Project: Gators Social Dashboard
 Language: Python
 
+Filename: dashboard.py (** Disclaimer: File will not run without a couple of locally stored images and packages installed **)
+
 Description:
   The Gators Social Dashboard is meant to be an all-in-one place to track and report the statistics of various Florida Gators accounts compared to other schools. The dashboard itself was set up using streamlit, with plotly being used to create the plots within. In order to collect the data used withing the dashboard, BeautifulSoup was used to scrape follower counts for instagram, while SNScrape and os were used to get twitter follower counts. 
 
